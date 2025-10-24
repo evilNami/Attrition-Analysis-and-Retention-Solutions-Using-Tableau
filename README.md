@@ -38,13 +38,11 @@ The analysis is built upon a confidential HR dataset focusing on employee turnov
 
 ```
 .
-├── data/                # Raw and pre-processed HR analytics CSV/Excel file
 ├── dashboards/          # Tableau workbook files
 │   └── HR_Attrition_Analytics.twbx # The packaged Tableau Workbook
+|   └── Dashboard_Screenshots.pdf # Static copies of the dashboards
 ├── documentation/       # Project report and supporting PDFs
-│   └── Attrition_Analysis_Report.pdf # The full written report/essay.
-│   └── Dashboard_Screenshots.pdf # Static copies of the dashboards
-├── visuals/             # Screenshots, GIFs, or image previews for the README
+│   └── Attrition_Analysis_Report.pdf # The full written report/essay. 
 ├── README.md            # Project overview and guidelines (You are here!)
 └── requirements.txt     # (Optional) List of any Python/R dependencies if data cleaning was used
 ```
